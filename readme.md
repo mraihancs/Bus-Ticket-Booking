@@ -24,6 +24,6 @@ Icons/Fonts: Google Fonts & FontAwesome
 📺 Project Demo
 Watch the UI walkthrough and ticket booking flow here:
 
-Watch P.H Paribahan Demo on YouTube
+Watch P.H Paribahan Demo on [YouTube](https://youtu.be/LHM0IccxaUo?si=0_5HAY1O0eAp2xUf)
 
 <img src="./Landing Page Design.jpg" />
