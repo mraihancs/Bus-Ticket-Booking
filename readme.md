@@ -1,4 +1,6 @@
-🚌 P.H Paribahan - Bus Ticket Booking Interface
+**P.H Paribahan - Bus Ticket Booking Interface**
+
+🚌 **P.H Paribahan - Bus Ticket Booking Interface**
 P.H Paribahan is a sleek, responsive bus ticketing landing page designed to provide a seamless booking experience for travelers. Built using a modern frontend stack of Tailwind CSS and JavaScript, the project focuses on high-speed performance, clean aesthetics, and intuitive navigation.
 
 🌟 Key Features
