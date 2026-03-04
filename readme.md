@@ -28,6 +28,6 @@ Watch the UI walkthrough and ticket booking flow here:
 
 Watch P.H Paribahan Demo on [YouTube](https://youtu.be/LHM0IccxaUo?si=0_5HAY1O0eAp2xUf)
 
-Live: https://mraihancs.github.io/Travel_Management_System/
+Live: [https://mraihancs.github.io/Travel_Management_System/](https://mraihancs.github.io/Bus-Ticket-Booking/)
 
 <img src="./Landing Page Design.jpg" />
